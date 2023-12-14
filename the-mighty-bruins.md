@@ -11,5 +11,5 @@ U! (3 claps)
 C! (3 claps)
 L! (3 claps)
 A! (3 claps)
-`U-C-L-A! Fight! Fight! Fight!`
+U-C-L-A! Fight! Fight! Fight!
 ```
