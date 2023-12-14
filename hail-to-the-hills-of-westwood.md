@@ -9,3 +9,5 @@ Her honor we’ll uphold;
 We’ll gladly give our hearts to thee,
 To the Blue and to the Gold.
 ```
+
+Source: [UCLA Songs](https://alumni.ucla.edu/uclas-story/ucla-history-songs/)
