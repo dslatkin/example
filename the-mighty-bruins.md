@@ -1,3 +1,4 @@
+```
 We are the Mighty Bruins,
 The best team in the West.
 We’re marching on to victory,
@@ -11,3 +12,4 @@ C! (3 claps)
 L! (3 claps)
 A! (3 claps)
 `U-C-L-A! Fight! Fight! Fight!`
+```
