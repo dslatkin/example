@@ -13,3 +13,4 @@ L! (3 claps)
 A! (3 claps)
 U-C-L-A! Fight! Fight! Fight!
 ```
+Source: [UCLA Songs](https://alumni.ucla.edu/uclas-story/ucla-history-songs/)
